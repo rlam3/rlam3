@@ -15,8 +15,14 @@
   "bugs": {
     "url": "https://github.com/rlam3/rlam3/issues"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo git hooks are awesome!"
+    }
+  },
   "homepage": "https://github.com/rlam3/rlam3#readme",
   "devDependencies": {
-    "husky": "^4.3.0"
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0"
   }
 }
