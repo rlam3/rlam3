@@ -1,0 +1,22 @@
+{
+  "name": "githubprofile",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Ray</h1> <h3 align=\"center\">A passionate Fullstack Engineer from US</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlam3/rlam3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlam3/rlam3/issues"
+  },
+  "homepage": "https://github.com/rlam3/rlam3#readme",
+  "devDependencies": {
+    "husky": "^4.3.0"
+  }
+}
