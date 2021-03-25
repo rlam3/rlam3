@@ -3,11 +3,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 mins Clean up your nuxt.config.js configurations for readability](https://aznric3boi91.medium.com/5-mins-clean-up-your-nuxt-config-js-configurations-for-readability-57e9652cfc1f?source=rss-adeca4457226------2)
 - [Update your @nuxtjs-eslint-module from v2 to v3](https://aznric3boi91.medium.com/update-your-nuxtjs-eslint-module-from-v2-to-v3-20b5f0bcdb68?source=rss-adeca4457226------2)
 - [Nuxt.js or Vue.js unit testing returns “don’t know how to turn this value into a node”](https://aznric3boi91.medium.com/nuxt-js-or-vue-js-unit-testing-returns-dont-know-how-to-turn-this-value-into-a-node-225e5e01c87?source=rss-adeca4457226------2)
 - [Hard Life Lesson of Owning an iMac With a Fusion drive](https://medium.com/macoclock/its-2020-hard-life-lesson-of-owning-an-imac-with-a-fusion-drive-908299a8bd1c?source=rss-adeca4457226------2)
 - [5 mins deploy hello world to kubernetes with Minikube on Mac](https://medium.com/swlh/5-mins-deploy-hello-world-to-kubernetes-with-minikube-on-mac-a9d71838fdba?source=rss-adeca4457226------2)
-- [Setup Local Kubernetes Cluster under 5mins with Minikube or Docker Desktop App for Mac](https://medium.com/swlh/setup-local-kubernetes-cluster-under-5mins-with-minikube-or-docker-desktop-app-for-mac-84bd5a8ab3d6?source=rss-adeca4457226------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
