@@ -5,7 +5,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [5 mins to fix Jest tests for app with: Unknown custom element: — did you register the component…](https://aznric3boi91.medium.com/5-mins-to-fix-jest-tests-for-app-with-unknown-custom-element-did-you-register-the-component-23ae75d5620b?source=rss-adeca4457226------2)
 - [5 mins Clean up your nuxt.config.js configurations for readability](https://aznric3boi91.medium.com/5-mins-clean-up-your-nuxt-config-js-configurations-for-readability-57e9652cfc1f?source=rss-adeca4457226------2)
-- [Update your @nuxtjs-eslint-module from v2 to v3](https://aznric3boi91.medium.com/update-your-nuxtjs-eslint-module-from-v2-to-v3-20b5f0bcdb68?source=rss-adeca4457226------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
